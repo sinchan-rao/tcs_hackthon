@@ -1,0 +1,41 @@
+{
+  "interest_rates": {
+    "savings_account": 3.5,
+    "fixed_deposit": {
+      "1_year": 6.0,
+      "3_years": 6.5,
+      "5_years": 7.0
+    },
+    "home_loan": 8.5,
+    "personal_loan": 10.5,
+    "car_loan": 9.0,
+    "education_loan": 9.5
+  },
+  "faqs": [
+    {
+      "topic": "home_loan",
+      "question": "What is the home loan interest rate?",
+      "answer": "Our home loan interest rates start at 8.5% per annum with tenures up to 30 years and zero processing fee on select schemes."
+    },
+    {
+      "topic": "personal_loan",
+      "question": "How does a personal loan work?",
+      "answer": "A personal loan provides a lump sum that you repay with interest in fixed monthly installments (EMIs) over a chosen tenure of 1 to 5 years without collateral."
+    },
+    {
+      "topic": "fixed_deposit",
+      "question": "What are the Fixed Deposit interest rates?",
+      "answer": "We offer attractive FD rates: 6.0% p.a. for 1 year, 6.5% p.a. for 3 years, and 7.0% p.a. for 5 years. Senior citizens receive an additional 0.5%."
+    },
+    {
+      "topic": "account_opening",
+      "question": "How do I open an account?",
+      "answer": "You can open an account in 5 minutes using Video KYC with your Aadhaar and PAN card, or visit your nearest branch."
+    },
+    {
+      "topic": "block_card",
+      "question": "How can I block my card?",
+      "answer": "To block a lost or stolen card, call our 24x7 toll-free helpline at 1800-123-4567 or request assistance via FinChat."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "customer_id": "CUST001",
+    "name": "Rahul Sharma",
+    "pin": "1234",
+    "account_number": "XXXXXX4521",
+    "account_type": "Savings",
+    "balance": 52430,
+    "mobile": "98XXXXXX21"
+  },
+  {
+    "customer_id": "CUST002",
+    "name": "Priya Patel",
+    "pin": "5678",
+    "account_number": "XXXXXX8932",
+    "account_type": "Current",
+    "balance": 150000,
+    "mobile": "97XXXXXX55"
+  },
+  {
+    "customer_id": "CUST003",
+    "name": "Suresh Kumar",
+    "pin": "2468",
+    "account_number": "XXXXXX1098",
+    "account_type": "Savings",
+    "balance": 28750,
+    "mobile": "91XXXXXX77"
+  },
+  {
+    "customer_id": "CUST004",
+    "name": "Ananya Rao",
+    "pin": "4321",
+    "account_number": "XXXXXX7741",
+    "account_type": "Savings",
+    "balance": 94300,
+    "mobile": "99XXXXXX33"
+  },
+  {
+    "customer_id": "CUST005",
+    "name": "Vikram Singh",
+    "pin": "9876",
+    "account_number": "XXXXXX3320",
+    "account_type": "Current",
+    "balance": 215000,
+    "mobile": "94XXXXXX12"
+  }
+]

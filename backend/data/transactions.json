@@ -1,0 +1,179 @@
+[
+  {
+    "customer_id": "CUST001",
+    "transactions": [
+      {
+        "id": "TXN1001",
+        "date": "2023-10-25",
+        "description": "Amazon Online Store",
+        "category": "Shopping",
+        "amount": 4100,
+        "type": "debit"
+      },
+      {
+        "id": "TXN1002",
+        "date": "2023-10-24",
+        "description": "Swiggy & Zomato Dining",
+        "category": "Food",
+        "amount": 3200,
+        "type": "debit"
+      },
+      {
+        "id": "TXN1003",
+        "date": "2023-10-22",
+        "description": "Supermarket Groceries",
+        "category": "Food",
+        "amount": 2000,
+        "type": "debit"
+      },
+      {
+        "id": "TXN1004",
+        "date": "2023-10-20",
+        "description": "Uber & Metro Commute",
+        "category": "Travel",
+        "amount": 3800,
+        "type": "debit"
+      },
+      {
+        "id": "TXN1005",
+        "date": "2023-10-18",
+        "description": "Electricity & WiFi Bill",
+        "category": "Bills",
+        "amount": 3200,
+        "type": "debit"
+      },
+      {
+        "id": "TXN1006",
+        "date": "2023-10-15",
+        "description": "Pharmacy & Sundries",
+        "category": "Other",
+        "amount": 2150,
+        "type": "debit"
+      },
+      {
+        "id": "TXN1007",
+        "date": "2023-10-01",
+        "description": "Monthly Salary Credit",
+        "category": "Income",
+        "amount": 75000,
+        "type": "credit"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST002",
+    "transactions": [
+      {
+        "id": "TXN2001",
+        "date": "2023-10-22",
+        "description": "Office Supplies Mart",
+        "category": "Shopping",
+        "amount": 12500,
+        "type": "debit"
+      },
+      {
+        "id": "TXN2002",
+        "date": "2023-10-18",
+        "description": "Electricity Utility Board",
+        "category": "Bills",
+        "amount": 5400,
+        "type": "debit"
+      },
+      {
+        "id": "TXN2003",
+        "date": "2023-10-05",
+        "description": "Client Consultation Payment",
+        "category": "Income",
+        "amount": 95000,
+        "type": "credit"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST003",
+    "transactions": [
+      {
+        "id": "TXN3001",
+        "date": "2023-10-20",
+        "description": "D-Mart Groceries",
+        "category": "Food",
+        "amount": 4200,
+        "type": "debit"
+      },
+      {
+        "id": "TXN3002",
+        "date": "2023-10-14",
+        "description": "Mobile Recharge",
+        "category": "Bills",
+        "amount": 799,
+        "type": "debit"
+      },
+      {
+        "id": "TXN3003",
+        "date": "2023-10-01",
+        "description": "Monthly Pension Credit",
+        "category": "Income",
+        "amount": 35000,
+        "type": "credit"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST004",
+    "transactions": [
+      {
+        "id": "TXN4001",
+        "date": "2023-10-21",
+        "description": "IndiGo Flight Ticket",
+        "category": "Travel",
+        "amount": 8500,
+        "type": "debit"
+      },
+      {
+        "id": "TXN4002",
+        "date": "2023-10-15",
+        "description": "FabIndia Apparel",
+        "category": "Shopping",
+        "amount": 3400,
+        "type": "debit"
+      },
+      {
+        "id": "TXN4003",
+        "date": "2023-10-02",
+        "description": "Salary Credit",
+        "category": "Income",
+        "amount": 82000,
+        "type": "credit"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST005",
+    "transactions": [
+      {
+        "id": "TXN5001",
+        "date": "2023-10-19",
+        "description": "Hotel Grand Stay",
+        "category": "Travel",
+        "amount": 16000,
+        "type": "debit"
+      },
+      {
+        "id": "TXN5002",
+        "date": "2023-10-11",
+        "description": "Apple Store Mumbai",
+        "category": "Shopping",
+        "amount": 42000,
+        "type": "debit"
+      },
+      {
+        "id": "TXN5003",
+        "date": "2023-10-03",
+        "description": "Dividends Received",
+        "category": "Income",
+        "amount": 110000,
+        "type": "credit"
+      }
+    ]
+  }
+]

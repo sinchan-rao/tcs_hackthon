@@ -1,0 +1,394 @@
+[
+  {
+    "conversation_id": "conv_8rLFNO3fjmO54YPiLCBxeIxy",
+    "session_id": "7g0NsrbNgEC8jdtu8m2N48PFRn4WU3rXnjYJh8iohuE",
+    "created_at": "2026-09-30T04:04:26.589047+00:00",
+    "updated_at": "2026-09-30T04:36:12.564455+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi",
+        "timestamp": "2026-09-30T04:04:35.595950+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I'm your FinChat banking assistant. I can help with balances, recent transactions, spending insights, loans, EMI, or money transfers. How can I help today?",
+        "timestamp": "2026-09-30T04:04:35.614991+00:00"
+      },
+      {
+        "role": "user",
+        "content": "who are u",
+        "timestamp": "2026-09-30T04:04:52.044018+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to help with your banking questions. You can ask about balances, recent transactions, spending reports, loans, EMI, interest rates, or money transfers.",
+        "timestamp": "2026-09-30T04:04:52.064677+00:00"
+      },
+      {
+        "role": "user",
+        "content": "What is my balance?",
+        "timestamp": "2026-09-30T04:35:32.081873+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T04:35:32.107047+00:00"
+      },
+      {
+        "role": "user",
+        "content": "123456",
+        "timestamp": "2026-09-30T04:35:35.740045+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T04:35:35.764120+00:00"
+      },
+      {
+        "role": "user",
+        "content": "Show my recent transactions",
+        "timestamp": "2026-09-30T04:35:41.331791+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T04:35:41.353246+00:00"
+      },
+      {
+        "role": "user",
+        "content": "wht is the highest transction",
+        "timestamp": "2026-09-30T04:35:56.842507+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T04:35:56.875318+00:00"
+      },
+      {
+        "role": "user",
+        "content": "which is the lowest",
+        "timestamp": "2026-09-30T04:36:12.540935+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T04:36:12.564455+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_ZXNztXhvLgQSh7U0fRJUyT_1",
+    "session_id": "ztSrVIzz5w1gowbWeYuqYc_1Tsx6eO22_sd7w3a1F_8",
+    "created_at": "2026-09-30T04:06:50.854904+00:00",
+    "updated_at": "2026-09-30T04:06:52.487730+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Where can I save my money?",
+        "timestamp": "2026-09-30T04:06:52.467579+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to help with your banking questions. You can ask about balances, recent transactions, spending reports, loans, EMI, interest rates, or money transfers.",
+        "timestamp": "2026-09-30T04:06:52.487730+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_yVW0DWAnvPQVyk0aKgWHoGxk",
+    "session_id": "_Iu6OFK9CYfODTqlEZgznMVcI7IREBqlH4WUF5Y32LU",
+    "created_at": "2026-09-30T04:11:50.991068+00:00",
+    "updated_at": "2026-09-30T04:11:52.171148+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Where can I save my money?",
+        "timestamp": "2026-09-30T04:11:52.152754+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to help with your banking questions. You can ask about balances, recent transactions, spending reports, loans, EMI, interest rates, or money transfers.",
+        "timestamp": "2026-09-30T04:11:52.171148+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_tpuYUeEU8YKKinr2BaclA-aT",
+    "session_id": "Tym04vS_xxfBDXcoeVLGUAV73vpRwYZ9636cX_qQ3iw",
+    "created_at": "2026-09-30T04:30:32.099368+00:00",
+    "updated_at": "2026-09-30T04:30:33.890125+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "where can i save my money",
+        "timestamp": "2026-09-30T04:30:33.869586+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to help with your banking questions. You can ask about balances, recent transactions, spending reports, loans, EMI, interest rates, or money transfers.",
+        "timestamp": "2026-09-30T04:30:33.890125+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_AG0ku5QeA4TekBm9G0L-QBmB",
+    "session_id": "B6jEddp2-FjmOv_IbGlaOguK7fyK_8Z5geOLxhl-FQA",
+    "created_at": "2026-09-30T05:04:25.599706+00:00",
+    "updated_at": "2026-09-30T05:04:25.599706+00:00",
+    "messages": []
+  },
+  {
+    "conversation_id": "conv_z2SBrK65gfE_rELnzLf6qWIg",
+    "session_id": "2ND8JONb2WAj9tnfLOuK4kqFP9JXa1AgjngS1h9iiA4",
+    "created_at": "2026-09-30T05:05:18.359622+00:00",
+    "updated_at": "2026-09-30T05:05:18.359622+00:00",
+    "messages": []
+  },
+  {
+    "conversation_id": "conv_7uh3YRKJBksqIX2J3yedbkyW",
+    "session_id": "9YYReQ-bYx0LBo6_P4HsScemHVR9DYQTugt_ebU9nzo",
+    "created_at": "2026-09-30T05:14:15.770356+00:00",
+    "updated_at": "2026-09-30T05:14:15.770356+00:00",
+    "messages": []
+  },
+  {
+    "conversation_id": "conv_UuUyMQenEsAWW6qL9UBnqbpX",
+    "session_id": "DdeoN2sTqnmmZGyg3ZCSpm6cghsBnr4hsLUHSSHIfPM",
+    "created_at": "2026-09-30T05:14:16.763495+00:00",
+    "updated_at": "2026-09-30T05:28:16.770041+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is my balance?",
+        "timestamp": "2026-09-30T05:28:10.585542+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T05:28:10.606588+00:00"
+      },
+      {
+        "role": "user",
+        "content": "123456",
+        "timestamp": "2026-09-30T05:28:16.744835+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T05:28:16.770041+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_v4e1nqfebhoSpAp-j-0EkVol",
+    "session_id": "HeDkqEJ7r-3oNjK2EAjZDjl0hRmul52MVJwZz-W_Tpo",
+    "created_at": "2026-09-30T05:18:32.395399+00:00",
+    "updated_at": "2026-09-30T05:18:33.938929+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2026-09-30T05:18:33.920323+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! Welcome to FinChat Bank. How can I assist you with your banking needs today?",
+        "timestamp": "2026-09-30T05:18:33.938929+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_zAE5flUcwkd0GmL1Gl3EAZkh",
+    "session_id": "Ck3qP_Dcv9fAhEX_t_nJ80ED3FlrjScHgwhASCchpts",
+    "created_at": "2026-09-30T05:24:23.006864+00:00",
+    "updated_at": "2026-09-30T05:24:29.943334+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is my balance?",
+        "timestamp": "2026-09-30T05:24:26.088491+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T05:24:26.105466+00:00"
+      },
+      {
+        "role": "user",
+        "content": "123456",
+        "timestamp": "2026-09-30T05:24:27.364754+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T05:24:27.384423+00:00"
+      },
+      {
+        "role": "user",
+        "content": "ನನ್ನ ಬ್ಯಾಲೆನ್ಸ್ ಎಷ್ಟು?",
+        "timestamp": "2026-09-30T05:24:29.920489+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T05:24:29.942672+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_a7jNpnUJl9yYscSQEwaALDRL",
+    "session_id": "l8oo0san1PDeyUwPYPDOQVCqquRLfKcGrZnaM1jx2v0",
+    "created_at": "2026-09-30T05:24:42.566158+00:00",
+    "updated_at": "2026-09-30T05:24:50.763637+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "ನನ್ನ ಬ್ಯಾಲೆನ್ಸ್ ಎಷ್ಟು?",
+        "timestamp": "2026-09-30T05:24:45.401221+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T05:24:45.418505+00:00"
+      },
+      {
+        "role": "user",
+        "content": "Where can I save my money?",
+        "timestamp": "2026-09-30T05:24:50.741897+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! Welcome to FinChat Bank. I would be delighted to help you find the right place to grow and secure your hard-earned money. \n\nAt FinChat Bank, we offer a range of tailored savings and deposit options designed to meet your financial goals:\n\n### 1. FinChat Bank's Core Savings & Deposit Options\n* **FinChat Savings Account:** Earn **3.50% interest p.a.** with 24/7 liquidity. This is the ideal option for your everyday transactions, short-term cash flow, and building your emergency fund.\n* **FinChat Fixed Deposits (FD):** Lock in guaranteed returns with interest rates ranging from **6.00% to 7.00% p.a.** across flexible tenures from 1 to 5 years:\n  * *1-Year Tenure:* 6.00% p.a.\n  * *3-Year Tenure:* 6.50% p.a.\n  * *5-Year Tenure:* 7.00% p.a.\n* **FinChat Recurring Deposits (RD):** Cultivate a habit of disciplined saving by setting aside a fixed amount every month while earning attractive interest rates.\n\n---\n\n### 2. Practical Financial Wisdom\nTo make the most of your money, consider adopting these foundational financial strategies:\n* **Emergency Fund:** Aim to build a reserve covering **3 to 6 months of living expenses**. Keep this amount easily accessible in your FinChat Savings Account for unexpected situations.\n* **The 50/30/20 Budgeting Rule:** A great way to manage your income is to split your after-tax income into three categories:\n  * **50%** for Needs (rent, groceries, utilities)\n  * **30%** for Wants (dining out, entertainment, shopping)\n  * **20%** for Savings and Investments (building your future with FDs, RDs, and other financial instruments)\n\n---\n\n*Disclaimer: The financial strategies and interest rates mentioned above are for informational and educational purposes only and do not constitute formal financial advice. Interest rates are subject to change as per bank policies and market conditions. Please evaluate your personal financial goals or consult a certified financial advisor before making investment decisions.*\n\nPlease let me know if you would like to open an account or if you have any other questions. Have a wonderful day ahead!",
+        "timestamp": "2026-09-30T05:24:50.763637+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_pmrfWhEiaY_fCg0EIs7pVk2D",
+    "session_id": "rI23aqG0iugHZ4hnXOA3_-A_XW1vsiJNuuuUNDOx-gk",
+    "created_at": "2026-09-30T05:25:46.746350+00:00",
+    "updated_at": "2026-09-30T05:25:48.511395+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello",
+        "timestamp": "2026-09-30T05:25:48.492188+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! Welcome to FinChat Bank. How can I assist you with your banking needs today?",
+        "timestamp": "2026-09-30T05:25:48.511395+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_IxJ2J08bZidQSQOgAxoomNU9",
+    "session_id": "Kj--GSieeCaOgocFHhXiEA8hztfE3DkwRRYoR9uMwbM",
+    "created_at": "2026-09-30T05:25:58.122871+00:00",
+    "updated_at": "2026-09-30T05:26:03.768223+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What are the interest rates?",
+        "timestamp": "2026-09-30T05:26:03.748335+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! Thank you for contacting FinChat Bank. \n\nHere are our current interest rates:\n- **Savings Account:** 3.5%\n- **Fixed Deposit:** 6.0% (1 year), 6.5% (3 years), 7.0% (5 years)\n- **Home Loan:** 8.5%\n- **Personal Loan:** 10.5%\n- **Car Loan:** 9.0%\n- **Education Loan:** 9.5%\n\nPlease let me know if you need help with anything else!",
+        "timestamp": "2026-09-30T05:26:03.768223+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_YXevni3pYhC7uFcp01ptfkjq",
+    "session_id": "QfNRvU2bGhR9Jzwc78XN8EiLg2cJQXaAn5EcMTO1WXk",
+    "created_at": "2026-09-30T05:26:13.137550+00:00",
+    "updated_at": "2026-09-30T05:26:15.835551+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is my balance?",
+        "timestamp": "2026-09-30T05:26:15.817219+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T05:26:15.835551+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3MiJt96eK0g0To9IhQdAxVNO",
+    "session_id": "bHTYgXuE7rNCzVPjwdeEnM8Nv99YdYFSahxRSx_xTac",
+    "created_at": "2026-09-30T05:26:46.031076+00:00",
+    "updated_at": "2026-09-30T05:26:48.467417+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "123456",
+        "timestamp": "2026-09-30T05:26:48.447781+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! Welcome to FinChat Bank. How can I assist you with your banking needs today?",
+        "timestamp": "2026-09-30T05:26:48.467417+00:00"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_YZ4eboUmpNv4vSvKKpPaeQdQ",
+    "session_id": "Vp_NpM2CR0a-01_Yzh0aefgptUcxE3b_AXWIRzvYz1I",
+    "created_at": "2026-09-30T05:28:48.493306+00:00",
+    "updated_at": "2026-09-30T05:28:48.493306+00:00",
+    "messages": []
+  },
+  {
+    "conversation_id": "conv_tzu4PxFfmIc44znRE6oCA7eO",
+    "session_id": "etTQlvpjzcgEM3ZC1KMZpXUU6Yt_NhCyC65UpmkLlWk",
+    "created_at": "2026-09-30T05:29:13.957247+00:00",
+    "updated_at": "2026-09-30T05:32:27.644879+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi",
+        "timestamp": "2026-09-30T05:29:34.921002+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! Welcome to FinChat Bank. How can I assist you with your banking needs today?",
+        "timestamp": "2026-09-30T05:29:34.945151+00:00"
+      },
+      {
+        "role": "user",
+        "content": "Show my recent transactions",
+        "timestamp": "2026-09-30T05:29:48.610457+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T05:29:48.643249+00:00"
+      },
+      {
+        "role": "user",
+        "content": "what is my highest transction",
+        "timestamp": "2026-09-30T05:31:55.061089+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T05:31:55.099459+00:00"
+      },
+      {
+        "role": "user",
+        "content": "lowest is",
+        "timestamp": "2026-09-30T05:32:27.621630+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "A private banking response was shown in this conversation. Please ask again and complete any required verification.",
+        "timestamp": "2026-09-30T05:32:27.644879+00:00"
+      }
+    ]
+  }
+]
