@@ -333,7 +333,9 @@ if os.path.exists(frontend_dir):
 
     @app.get("/{filename:path}")
     def serve_frontend_file(filename: str):
-        file_path = os.path.join(frontend_dir, filename)
+        file_path = os.path.abspath(os.path.join(frontend_dir, filename))
+        if not file_path.startswith(os.path.abspath(frontend_dir)):
+            raise HTTPException(status_code=403, detail="Access denied")
         if os.path.isfile(file_path):
             return FileResponse(file_path)
         raise HTTPException(status_code=404, detail="File not found")
